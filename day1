@@ -1,0 +1,2 @@
+d={"name":"Nimesh"}
+print(d.get("name"))
